@@ -40,7 +40,7 @@ Developed an interactive Power BI dashboard to analyze sales performance, profit
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard_overview.png images/rls_view.png images/dashboard/Screenshot 2026-04-20 123212.png)
+![Dashboard Preview](images/dashboard_overview.png images/rls_view.png images/dashboard/Screenshot 2026-04-20 123212.png)
 
 ---
 
